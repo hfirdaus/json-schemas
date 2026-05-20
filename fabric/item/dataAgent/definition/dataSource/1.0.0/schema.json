@@ -7,8 +7,7 @@
   "properties": {
     "$schema": {
       "type": [
-        "string",
-        "null"
+        "string"
       ],
       "description": "The schema version of the datasource file (e.g., \"1.0.0\")."
     },
@@ -33,7 +32,7 @@
     },
     "type": {
       "type": "string",
-      "description": "The type of the data source (ex: lakehouse-tables, datawarehouse, kusto).",
+      "description": "The type of the data source.",
       "enum": [
         "unknown",
         "lakehouse_tables",
