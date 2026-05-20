@@ -33,7 +33,7 @@
     },
     "type": {
       "type": "string",
-      "description": "The type of the data source (ex: lakehouse-tables, datawarehouse, kusto).",
+      "description": "The type of the data source.",
       "enum": [
         "unknown",
         "lakehouse_tables",
