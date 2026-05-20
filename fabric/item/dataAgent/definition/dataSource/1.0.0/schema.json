@@ -7,8 +7,7 @@
   "properties": {
     "$schema": {
       "type": [
-        "string",
-        "null"
+        "string"
       ],
       "description": "The schema version of the datasource file (e.g., \"1.0.0\")."
     },
